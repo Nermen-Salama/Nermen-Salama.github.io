@@ -1,4 +1,4 @@
-                                ## Welcome to Nermen Salama Page
+## Welcome to Nermen Salama Page
 
 You can use the [editor on GitHub](https://github.com/Nermen-Salama/Nermen-Salama.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
