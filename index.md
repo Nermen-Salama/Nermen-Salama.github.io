@@ -31,9 +31,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nermen-Salama/Nermen-Salama.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="nermen-salama" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/nermen-salama?trk=profile-badge">Nermen Salama</a></div>
-    
+ 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
